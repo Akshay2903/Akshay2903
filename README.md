@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Mail Box Client](https://github.com/Akshay2903/Mail-Box-Client)
 
-- 🌱 I’m currently learning **NodeJS, AngularJS**
+- 🌱 I’m currently learning **NodeJS, ExpressJS**
 
-- 👯 I’m looking to collaborate on [Ramayana](https://github.com/Akshay2903/Ramayana)
+- 👯 I’m looking to collaborate on 
 
-- 🤝 I’m looking for help with [Ramayana](https://github.com/Akshay2903/Ramayana)
+- 🤝 I’m looking for help with 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshay2903](https://github.com/Akshay2903)
 
